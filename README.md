@@ -1,19 +1,30 @@
-# Dracula-Grub2
-GRUB 2 Dracula Theme
+# Dracula for [Grub2](https://gnu.org/software/grub/)
 
-## Installation
-1. Extract the theme to /boot/grub/themes/
+> A dark theme for [GRUB2](https://gnu.org/software/grub/).
 
-2. Edit /etc/default/grub file. Find the line starting with "#GRUB_THEME"  
-and change it to "GRUB_THEME=/boot/grub/themes/dracula-grub2/theme.txt"
+![Screenshot](./screenshot.png)
 
-3. Run  
-    ```sudo update-grub```  
-    Or  
-    ```sudo grub-mkconfig -o /boot/grub/grub.cfg```
+## Install
 
-## Screenshot
-![Screenshot](./Screenshot.png)
+All instructions can be found at [draculatheme.com/grub2](https://draculatheme.com/grub2).
+
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+
+| [![Ashwin A Kumar](https://github.com/zshzero.png?size=100)](https://github.com/zshzero) |
+| ---------------------------------------------------------------------------------------- |
+| [Ashwin A Kumar](https://github.com/zshzero)                                               |
+
+## Community
+
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+
+## Dracula PRO
+
+[![Dracula PRO](./.github/dracula-pro.png)](https://draculatheme.com/pro)
 
 ## License
 
